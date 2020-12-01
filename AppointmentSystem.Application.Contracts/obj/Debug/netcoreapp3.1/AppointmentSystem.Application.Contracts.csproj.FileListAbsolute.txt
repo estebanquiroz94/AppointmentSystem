@@ -1,0 +1,9 @@
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\bin\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.deps.json
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\bin\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.dll
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\bin\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.pdb
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.csprojAssemblyReference.cache
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.AssemblyInfoInputs.cache
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.AssemblyInfo.cs
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.dll
+D:\GitHub\AppointmentSystem\AppointmentSystem.Application.Contracts\obj\Debug\netcoreapp3.1\AppointmentSystem.Application.Contracts.pdb
